@@ -1,0 +1,2 @@
+flight_key,from_airport,from_date,max_price,one_way_flag,to_airport,to_date
+0,SYD,2017-01-29,1000,True,LAX,2017-02-05

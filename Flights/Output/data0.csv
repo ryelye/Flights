@@ -1,0 +1,13 @@
+airline,duration,flight_key,href,price,time,from_airport,from_date,max_price,one_way_flag,to_airport,to_date
+American,13h 55m,0,https://www.google.com/flights/#search;f=SYD;t=LAX;d=2017-01-29;r=2017-02-05;tt=o;sel=SYDLAX0AA72;mp=1000,817,11:15 AM – 6:10 AM,SYD,2017-01-29,1000,True,LAX,2017-02-05
+United,14h 00m,0,https://www.google.com/flights/#search;f=SYD;t=LAX;d=2017-01-29;r=2017-02-05;tt=o;sel=SYDLAX0UA840;mp=1000,817,11:30 AM – 6:30 AM,SYD,2017-01-29,1000,True,LAX,2017-02-05
+"Operated by Virgin Australia, Also marketed by Delta, VA 1 operated by Virgin Aust Intl",13h 50m,0,https://www.google.com/flights/#search;f=SYD;t=LAX;d=2017-01-29;r=2017-02-05;tt=o;sel=SYDLAX0VA1;mp=1000,817,11:40 AM – 6:30 AM,SYD,2017-01-29,1000,True,LAX,2017-02-05
+"Operated by Delta, Also marketed by Virgin Australia",13h 55m,0,https://www.google.com/flights/#search;f=SYD;t=LAX;d=2017-01-29;r=2017-02-05;tt=o;sel=SYDLAX0DL40;mp=1000,817,12:20 PM – 7:15 AM,SYD,2017-01-29,1000,True,LAX,2017-02-05
+Philippine Airlines,25h 05m,0,https://www.google.com/flights/#search;f=SYD;t=LAX;d=2017-01-29;r=2017-02-05;tt=o;sel=SYDMNL0PR212-MNLLAX0PR102;mp=1000,612,11:30 AM – 5:35 PM,SYD,2017-01-29,1000,True,LAX,2017-02-05
+Hawaiian,27h 00m,0,https://www.google.com/flights/#search;f=SYD;t=LAX;d=2017-01-29;r=2017-02-05;tt=o;sel=SYDHNL0HA452-HNLLAX0HA4;mp=1000,652,9:20 PM – 5:20 AM+1,SYD,2017-01-29,1000,True,LAX,2017-02-05
+Air New Zealand,17h 40m,0,https://www.google.com/flights/#search;f=SYD;t=LAX;d=2017-01-29;r=2017-02-05;tt=o;sel=SYDAKL0NZ104-AKLLAX0NZ6;mp=1000,731,11:50 AM – 10:30 AM,SYD,2017-01-29,1000,True,LAX,2017-02-05
+Air New Zealand,17h 20m,0,https://www.google.com/flights/#search;f=SYD;t=LAX;d=2017-01-29;r=2017-02-05;tt=o;sel=SYDAKL0NZ118-AKLLAX0NZ2;mp=1000,731,3:50 PM – 2:10 PM,SYD,2017-01-29,1000,True,LAX,2017-02-05
+"Operated by Air New Zealand, LATAM, Also marketed by United",18h 20m,0,https://www.google.com/flights/#search;f=SYD;t=LAX;d=2017-01-29;r=2017-02-05;tt=o;sel=SYDAKL0LA800-AKLLAX0NZ6;mp=1000,774,11:10 AM – 10:30 AM,SYD,2017-01-29,1000,True,LAX,2017-02-05
+Hawaiian,20h 40m,0,https://www.google.com/flights/#search;f=SYD;t=LAX;d=2017-01-29;r=2017-02-05;tt=o;sel=SYDHNL0HA452-HNLLAX0HA2;mp=1000,787,9:20 PM – 11:00 PM,SYD,2017-01-29,1000,True,LAX,2017-02-05
+United,16h 47m,0,https://www.google.com/flights/#search;f=SYD;t=LAX;d=2017-01-29;r=2017-02-05;tt=o;sel=SYDSFO0UA870-SFOLAX0UA479;mp=1000,823,12:30 PM – 10:17 AM,SYD,2017-01-29,1000,True,LAX,2017-02-05
+"Operated by Qantas, Also marketed by American",13h 45m,0,https://www.google.com/flights/#search;f=SYD;t=LAX;d=2017-01-29;r=2017-02-05;tt=o;sel=SYDLAX0QF11;mp=1000,948,11:30 AM – 6:15 AM,SYD,2017-01-29,1000,True,LAX,2017-02-05

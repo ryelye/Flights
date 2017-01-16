@@ -1,0 +1,2 @@
+from_airport,to_airports,from_date_start,from_date_end,min_duration,max_duration,max_price,one_way
+SYD,"PEK, SHA, PVG",15/01/2017,15/02/2017,20,30,500,FALSE
